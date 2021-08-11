@@ -1,0 +1,23 @@
+name: q_learning-env
+ 
+dependencies:
+    - python=3.7
+    - pip>=19.0
+    - jupyter
+    - scikit-learn
+    - scipy
+    - pandas
+    - pandas-datareader
+    - matplotlib
+    - pillow
+    - tqdm
+    - requests
+    - h5py
+    - pyyaml
+    - flask
+    - boto3
+    - pip:
+        - pymongo
+        - bayesian-optimization
+        - gym
+        - kaggle
